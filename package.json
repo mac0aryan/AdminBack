@@ -1,0 +1,18 @@
+{
+  "name": "adminbackend",
+  "version": "1.0.0",
+  "description": "Backend app for the admin page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryan Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "multer": "^1.4.5-lts.1"
+  }
+}
